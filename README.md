@@ -2,12 +2,12 @@
 ### Author: Sarah Cooper
 ### Date: January 3, 2024
 
-# ❓ [ASK](# -ask)
-# 💻 [PREPARE](# -prepare)
-# ⚙️ [PROCESS](# -process)
-# 📈 [ANALYZE](# -analyze)
-# 📋 [SHARE](# -share)
-# 🎬 [ACT](# -act)
+# ❓ [ASK](#-ask)
+# 💻 [PREPARE](#-prepare)
+# ⚙️ [PROCESS](#-process)
+# 📈 [ANALYZE](#-analyze)
+# 📋 [SHARE](#-share)
+# 🎬 [ACT](#-act)
 
 ![Bellabeat logo pink on white background](https://user-images.githubusercontent.com/77591203/196562658-bfe5df3b-4e68-4c4e-97b8-d9c057d28dec.jpg)
 
