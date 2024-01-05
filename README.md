@@ -2,19 +2,19 @@
 ### Author: Sarah Cooper
 ### Date: January 3, 2024
 
-## ❓ ASK
-## 💻 PREPARE
-## ⚙️ PROCESS
-## 📈 ANALYZE
-## 📋 SHARE
-## 🎬 ACT
+## ❓ [ASK](#-ask)
+## 💻 [PREPARE](#-prepare)
+## ⚙️ [PROCESS](#-process)
+## 📈 [ANALYZE](#-analyze)
+## 📋 [SHARE](#-share)
+## 🎬 [ACT](#-act)
 
 ![Bellabeat logo pink on white background](https://user-images.githubusercontent.com/77591203/196562658-bfe5df3b-4e68-4c4e-97b8-d9c057d28dec.jpg)
 
 ## Introduction
 Bellabeat is a technology company that designs and manufactures health-focused products exclusively for women. The company was founded in 2013 to collect and analyze data on women's activity levels, stress, sleep patterns, and overall health. This data enables women to make informed decisions about their health and habits. Bellabeat can become a significant player in the smart device market. In 2016, the company opened new offices and launched its products, which are available on its website (https://bellabeat.com/) and through online retailers. Bellabeat has invested in multiple media channels and has mainly focused on digital marketing, including popular platforms like Instagram, Facebook, YouTube, Twitter, and Google Search.
 
-## ASK
+# ASK
 
 ### Business Task
 The business task was to analyze smart device usage data to gain insights into how consumers use non-Bellabeat smart devices. Then, select one Bellabeat product to apply these insights to in the presentation. The business questions are:
@@ -42,7 +42,7 @@ data that helps guide Bellabeat's marketing strategy. I am in the role of a juni
 
 * **Bellabeat membership**: a subscription-based program for users with 24/7 access to fully personalized guidance on nutrition, activity, sleep, health, beauty, and mindfulness-based on their lifestyle and goals.
 
-## PREPARE
+# PREPARE
 The data being used in this case study can be found here: [FitBit Fitness Tracker Data CC0](https://www.kaggle.com/datasets/arashnic/fitbit): Public Domain, dataset made available through [Mobius](https://www.kaggle.com/arashnic)
 
 The data is stored and uploaded in R Studio. This Kaggle data set contains personal fitness tracker data from thirty Fitbit users. Thirty eligible Fitbit users consented to the submission of personal tracker data, including minute-level output for physical activity, heart rate, and sleep monitoring. It includes information about daily activity, steps, and heart rate that can be used to explore users' habits.
@@ -59,7 +59,7 @@ The data set contains 18 CSV files organized in long format. Below is a breakdow
 
 - **Cited — LOW**: The third-party dataset was available by Mobius via Kaggle.
 
-## PROCESS
+# PROCESS
 
 ### Packages
 
@@ -122,7 +122,7 @@ activity$date <- format(activity$activitydate, format = "%m/%d/%y")
 sleep$sleepday=as.POSIXct(sleep$sleepday, format="%m/%d/%Y %I:%M:%S %p", tz=Sys.timezone())
 sleep$date <- format(sleep$sleepday, format = "%m/%d/%y")
 ```
-## ANALYZE
+# ANALYZE
 To begin the analysis phase, I will first see how many participants there are in each category.
 ```
 ## Finding the number of participants in each category
@@ -380,7 +380,7 @@ A tibble: 6 × 9
 The bar graph above shows us that participants are most active on **Saturday**
 and least active on **Sunday**.
 
-## ACT
+# ACT
 
 ### Insights Summary:
 
