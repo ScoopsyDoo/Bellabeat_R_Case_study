@@ -1,4 +1,4 @@
-# Bellabeat_R_Case_study
+# Bellabeat R Case Study
 ### Author: Sarah Cooper
 ### Date: January 3, 2024
 
@@ -14,7 +14,7 @@
 ## Introduction
 Bellabeat is a technology company that designs and manufactures health-focused products exclusively for women. The company was founded in 2013 to collect and analyze data on women's activity levels, stress, sleep patterns, and overall health. This data enables women to make informed decisions about their health and habits. Bellabeat can become a significant player in the smart device market. In 2016, the company opened new offices and launched its products, which are available on its website (https://bellabeat.com/) and through online retailers. Bellabeat has invested in multiple media channels and has mainly focused on digital marketing, including popular platforms like Instagram, Facebook, YouTube, Twitter, and Google Search.
 
-# ASK
+# [ASK](#-ask)
 
 ### Business Task
 The business task was to analyze smart device usage data to gain insights into how consumers use non-Bellabeat smart devices. Then, select one Bellabeat product to apply these insights to in the presentation. The business questions are:
