@@ -4,10 +4,10 @@
 
 # [❓ ASK](https://github.com/ScoopsyDoo/Bellabeat_R_Case_study/blob/main/README.md#ask)
 # [💻 PREPARE](https://github.com/ScoopsyDoo/Bellabeat_R_Case_study/blob/main/README.md#prepare)
-# [⚙️ PROCESS]
-# [📈 ANALYZE]
-# [📋 SHARE]
-# [🎬 ACT]
+# [⚙️ PROCESS](https://github.com/ScoopsyDoo/Bellabeat_R_Case_study/blob/main/README.md#process)
+# [📈 ANALYZE](https://github.com/ScoopsyDoo/Bellabeat_R_Case_study/blob/main/README.md#analyze)
+# [📋 SHARE](https://github.com/ScoopsyDoo/Bellabeat_R_Case_study/blob/main/README.md#share)
+# [🎬 ACT](https://github.com/ScoopsyDoo/Bellabeat_R_Case_study/blob/main/README.md#act)
 
 ![Bellabeat logo pink on white background](https://user-images.githubusercontent.com/77591203/196562658-bfe5df3b-4e68-4c4e-97b8-d9c057d28dec.jpg)
 
