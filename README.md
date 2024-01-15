@@ -2,12 +2,12 @@
 ### Author: Sarah Cooper
 ### Date: January 3, 2024
 
-# [❓ ASK](https://github.com/ScoopsyDoo/Bellabeat_R_Case_study/blob/main/README.md#ask)) 
-# [💻 PREPARE](#-prepare)
-# [⚙️ PROCESS](#-process)
-# [📈 ANALYZE](#-analyze)
-# [📋 SHARE](#-share)
-# [🎬 ACT](#-act)
+# [❓ ASK](https://github.com/ScoopsyDoo/Bellabeat_R_Case_study/blob/main/README.md#ask)
+# [💻 PREPARE](https://github.com/ScoopsyDoo/Bellabeat_R_Case_study/blob/main/README.md#prepare)
+# [⚙️ PROCESS]
+# [📈 ANALYZE]
+# [📋 SHARE]
+# [🎬 ACT]
 
 ![Bellabeat logo pink on white background](https://user-images.githubusercontent.com/77591203/196562658-bfe5df3b-4e68-4c4e-97b8-d9c057d28dec.jpg)
 
