@@ -2,7 +2,7 @@
 ### Author: Sarah Cooper
 ### Date: January 3, 2024
 
-# [❓ ASK](#-ask)
+# [❓ ASK](https://github.com/ScoopsyDoo/Bellabeat_R_Case_study/blob/main/README.md#ask)) 
 # [💻 PREPARE](#-prepare)
 # [⚙️ PROCESS](#-process)
 # [📈 ANALYZE](#-analyze)
